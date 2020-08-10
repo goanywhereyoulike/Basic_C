@@ -1,0 +1,15 @@
+Superman
+300
+50
+Batman
+500
+30
+Ironman
+900
+99
+Spiderman
+320
+10
+Wonder_Woman
+1000
+80

@@ -1,0 +1,15 @@
+Mario
+4
+3
+Luigi
+5
+3
+Peach
+2
+5
+Toad
+3
+4
+Bowser
+7
+1

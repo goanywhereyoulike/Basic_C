@@ -1,0 +1,14 @@
+Canada
+375000
+USA
+350000
+Mexico
+290000
+Japan
+105000
+China
+900000
+Korea
+208000
+UK
+169000
